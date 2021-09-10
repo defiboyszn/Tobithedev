@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on JavaScript project
-- I'm the creator of [DativeJs](/dativeJs/dativejs)
+- I'm the creator of [DativeJs](https://dativejs.js.org)
+
 
 ![Statics](https://github-readme-stats.vercel.app/api?username=Tobithedev)
 
