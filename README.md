@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **[Vuejs](https://v3.vuejs.org)**
+- 🌱 I’m currently learning **[sveltejs](https://svelte.dev)**
 
 - 👯 I’m looking to collaborate on **Javascript**
 
