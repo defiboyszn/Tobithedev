@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobithedev</h1>
-<h3 align="center">A passionate frontend developer from Nigeria and the creator of DativeJs, Dytejs and Pizzlejs</h3>
+<h3 align="center">A passionate software developer from Nigeria and the creator of DativeJs, Dytejs and Pizzlejs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobithedev&label=Profile%20views&color=0e75b6&style=flat" alt="tobithedev" /> </p>
 <a href="https://wakatime.com/@0c76e0d7-5b52-47a6-8ab8-fa3643e3aab3"><img src="https://wakatime.com/badge/user/0c76e0d7-5b52-47a6-8ab8-fa3643e3aab3.svg" alt="Total time coded since Jan 9 2022" /></a>
