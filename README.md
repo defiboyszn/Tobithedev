@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tobithedev</h1>
+<h1 align="center">Hi 👋, I'm Tobithealpha</h1>
 <h3 align="center">A passionate software developer from Nigeria and the creator of DativeJs, Dytejs and Pizzlejs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobithedev&label=Profile%20views&color=0e75b6&style=flat" alt="tobithedev" /> </p>
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Javascript**
 
-- 💬 Ask me about **DativeJs,Vue**
+- 💬 Ask me about **DativeJs**
 
 - 📫 How to reach me **ucheemekatobi@gmail.com**
 
