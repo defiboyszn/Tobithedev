@@ -39,3 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobithedev&show_icons=true&locale=en" alt="tobithedev" /></p>
 
+
+[![Tobithealpha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tobithedev)](https://github.com/anuraghazra/github-readme-stats)
