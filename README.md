@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **DativeJs**
 
-- 📫 How to reach me **ucheemekatobi@gmail.com**
+- 📫 How to reach me **tobithealpha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
