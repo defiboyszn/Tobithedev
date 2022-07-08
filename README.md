@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobithedev" alt="tobithedev" /></a> </p>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **Frixx**
 
 - 🌱 I’m currently learning **[sveltejs](https://svelte.dev)**
 
 - 👯 I’m looking to collaborate on **Javascript**
 
-- 💬 Ask me about **DativeJs**
+- 💬 Ask me about **Texxalabs Technology**
 
 - 📫 How to reach me **tobithealpha@gmail.com**
 
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/tobithealpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobithealpha" height="30" width="40" /></a>
 <a href="https://medium.com/@tobithedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tobithedev" height="30" width="40" /></a>
 <a href="https://twitter.com/thetobithealpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobithealpha" height="30" width="40" /></a>
- <a href="https://www.facebook.com/therealtobithealpha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tobithedev360" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/tobithealpha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tobithedev360" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
