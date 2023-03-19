@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobithedev" alt="tobithedev" /></a> </p>
 
-- 🔭 I’m currently working on **Frixx**
+- 🔭 I’m currently working on a **web3** project 
 
-- 🌱 I’m currently learning **[sveltejs](https://svelte.dev)**
+- 🌱 I’m currently learning **web3**
 
 - 👯 I’m looking to collaborate on **Javascript**
 
