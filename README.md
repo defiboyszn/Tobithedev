@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a web3 project<br><br>🌱 I’m currently learning web3<br><br>👯 I’m looking to collaborate on Javascript<br><br>💬 Ask me about Tech<br><br>📫 How to reach me tobithealpha@gmail.com or tobi@frixxapp.com
+🔭 I’m currently working on a web3 project<br><br>🌱 I’m currently learning web3<br><br>👯 I’m looking to collaborate on Javascript<br><br>💬 Ask me about Tech<br><br>📫 How to reach me hi@heistobi.xyz or tobi@frixxapp.com
 
 
 ## 🌐 Socials:
